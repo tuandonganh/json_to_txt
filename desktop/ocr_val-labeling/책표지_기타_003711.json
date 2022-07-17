@@ -1,0 +1,59 @@
+{
+	"annotations": [
+		{
+			"id": 1,
+			"image_id": 1,
+			"text": "xxx",
+			"bbox": [
+				94,
+				32,
+				1265,
+				772
+			]
+		},
+		{
+			"id": 2,
+			"image_id": 1,
+			"text": "찾아서",
+			"bbox": [
+				330,
+				805,
+				725,
+				359
+			]
+		}
+	],
+	"cropLabels": [],
+	"images": [
+		{
+			"id": 1,
+			"width": 1600,
+			"height": 1200,
+			"file_name": "책표지_기타_003711.jpg",
+			"date_captured": "2020-10-27 23:36:10"
+		}
+	],
+	"info": {
+		"name": "책표지_기타_003711",
+		"description": "",
+		"date_created": "2020-11-13 10:59:11",
+		"url": ""
+	},
+	"metadata": [
+		{
+			"class": "책표지",
+			"subclass": "기타",
+			"area": "수도권",
+			"device": "DSLR카메라",
+			"weather": "맑음",
+			"illuminance": "밝음",
+			"light": "간접광",
+			"outline": "상",
+			"wordorientation": "가로",
+			"wordsize": "대",
+			"wordfont": "캘리그라피",
+			"wordcolor": "여러색",
+			"wordconnection": "빈공간없이 이어짐"
+		}
+	]
+}

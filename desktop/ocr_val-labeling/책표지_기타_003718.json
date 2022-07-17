@@ -1,0 +1,70 @@
+{
+	"annotations": [
+		{
+			"id": 1,
+			"image_id": 1,
+			"text": "자밀의",
+			"bbox": [
+				421,
+				166,
+				705,
+				331
+			]
+		},
+		{
+			"id": 2,
+			"image_id": 1,
+			"text": "영리한",
+			"bbox": [
+				251,
+				520,
+				583,
+				240
+			]
+		},
+		{
+			"id": 3,
+			"image_id": 1,
+			"text": "고양이",
+			"bbox": [
+				488,
+				784,
+				875,
+				374
+			]
+		}
+	],
+	"cropLabels": [],
+	"images": [
+		{
+			"id": 1,
+			"width": 1600,
+			"height": 1200,
+			"file_name": "책표지_기타_003718.jpg",
+			"date_captured": "2020-10-27 23:36:28"
+		}
+	],
+	"info": {
+		"name": "책표지_기타_003718",
+		"description": "",
+		"date_created": "2020-11-13 11:54:37",
+		"url": ""
+	},
+	"metadata": [
+		{
+			"class": "책표지",
+			"subclass": "기타",
+			"area": "수도권",
+			"device": "DSLR카메라",
+			"weather": "맑음",
+			"illuminance": "밝음",
+			"light": "간접광",
+			"outline": "상",
+			"wordorientation": "가로",
+			"wordsize": "중",
+			"wordfont": "캘리그라피",
+			"wordcolor": "여러색",
+			"wordconnection": "빈공간없이 이어짐"
+		}
+	]
+}

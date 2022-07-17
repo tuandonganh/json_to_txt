@@ -1,0 +1,48 @@
+{
+	"annotations": [
+		{
+			"id": 1,
+			"image_id": 1,
+			"text": "일 주 일",
+			"bbox": [
+				34,
+				407,
+				1486,
+				678
+			]
+		}
+	],
+	"cropLabels": [],
+	"images": [
+		{
+			"id": 1,
+			"width": 1600,
+			"height": 1200,
+			"file_name": "책표지_기타_003755.jpg",
+			"date_captured": "2020-10-27 23:36:58"
+		}
+	],
+	"info": {
+		"name": "책표지_기타_003755",
+		"description": "",
+		"date_created": "2020-11-13 14:25:30",
+		"url": ""
+	},
+	"metadata": [
+		{
+			"class": "책표지",
+			"subclass": "기타",
+			"area": "수도권",
+			"device": "DSLR카메라",
+			"weather": "맑음",
+			"illuminance": "밝음",
+			"light": "간접광",
+			"outline": "상",
+			"wordorientation": "가로",
+			"wordsize": "중",
+			"wordfont": "활자체",
+			"wordcolor": "여러색",
+			"wordconnection": "빈공간으로 나뉨"
+		}
+	]
+}
